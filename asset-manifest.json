@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/olayodepossible/LinkTree/static/css/main.073c9b0a.css",
+    "main.js": "/olayodepossible/LinkTree/static/js/main.3c4d694c.js",
+    "static/js/787.c44b2c8a.chunk.js": "/olayodepossible/LinkTree/static/js/787.c44b2c8a.chunk.js",
+    "static/media/logo.svg": "/olayodepossible/LinkTree/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/olayodepossible/LinkTree/index.html",
+    "main.073c9b0a.css.map": "/olayodepossible/LinkTree/static/css/main.073c9b0a.css.map",
+    "main.3c4d694c.js.map": "/olayodepossible/LinkTree/static/js/main.3c4d694c.js.map",
+    "787.c44b2c8a.chunk.js.map": "/olayodepossible/LinkTree/static/js/787.c44b2c8a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3c4d694c.js"
+  ]
+}
