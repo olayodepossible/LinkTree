@@ -1,7 +1,7 @@
 {
   "name": "link-tree-app",
   "version": "0.1.0",
-  "homepage": "https://olayodepossible.github.io/LinkTree/",
+  "homepage": "https://olayodepossible.github.io/link-tree-app/public",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.3.6",
