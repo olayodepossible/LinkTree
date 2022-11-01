@@ -36,10 +36,8 @@ const colors = {
   },
 };
 
-const theme = extendTheme({
+export const theme = extendTheme({
   fonts,
   colors,
   components,
 });
-
-export default theme;
